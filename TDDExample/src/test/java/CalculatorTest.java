@@ -7,6 +7,20 @@ import static org.junit.jupiter.api.Assertions.*;
 
 class CalculatorTest {
 
+    /**
+    * STUDENT-ID : B201202051
+     * NAME : SEYMA
+     * SURNAME : ALTIPARMAK
+     * COURSE NAME : SWE202
+     * HOMEWORK NAME :
+     * SWE202 SOFTWARE VERIFICATION AND VALIDATION
+     * 2022-2023 SPRING SEMESTER
+     * HOMEWORK 1
+     * REPOSITORY NAME : B201202051-SoftwareVerificationAndValidation
+     * REPOSITORY LINK : --> https://github.com/seyma-altiparmak/B201202051-SoftwareVerificationAndValidation
+    * */
+
+    
     @BeforeEach
     void setUp() {
     }
