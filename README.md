@@ -1,2 +1,11 @@
 # B201202051-SoftwareVerificationAndValidation
-homework-1 b201202051 TDDExamples
+Homework-1 B201202051 SWE202
+SEYMA ALTIPARMAK
+[Done Perfectly.]
+💯 in TDDExample : name - surname - num etc. added.
+💯 @ParameterizedTest added correctly.
+💯 Different task branches are used and merged.
+💯 gitignore for java added.
+💯 maven added (n.n.)
+
+Thank you 😊
