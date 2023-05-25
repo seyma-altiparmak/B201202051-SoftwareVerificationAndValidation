@@ -6,6 +6,5 @@ SEYMA ALTIPARMAK
 💯 @ParameterizedTest added correctly.
 💯 Different task branches are used and merged.
 💯 gitignore for java added.
-💯 maven added (n.n.)
 
 Thank you 😊
